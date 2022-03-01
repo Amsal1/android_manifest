@@ -33,7 +33,7 @@
   <project path="art" name="android_art" remote="cherish" />
   <project path="bionic" name="android_bionic" groups="pdk" remote="cherish" />
   <project path="libcore" name="android_libcore" groups="pdk" remote="cherish" />
-  <project path="manifest" name="android_manifest" remote="cherish" />
+  <project path="manifest" name="android_manifest" remote="amsal" />
 
   <!-- Bootable -->
   <project path="bootable/recovery" name="android_bootable_recovery" groups="pdk" remote="cherish" />
